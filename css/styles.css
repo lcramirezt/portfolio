@@ -203,6 +203,8 @@ td {
   color:#ffffff;
 }
 
+.site-footer a{color:#ffffff;}
+
 
 @media (max-width: 799px) {
 .site-footer{
