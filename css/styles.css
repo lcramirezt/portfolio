@@ -190,7 +190,7 @@ td {
   padding:3rem;
   grid-template-columns: repeat(4, 1fr);
   gap:var(--gutter);
-  background-image: url("../img/footer.png");
+  background-image: none;
   background-repeat: no-repeat;
   background-position: right bottom;
   background-size: auto 80%;
