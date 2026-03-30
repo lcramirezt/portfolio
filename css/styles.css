@@ -293,8 +293,8 @@ aspect-ratio:5/3;
 .blade h1{max-width:70ch;} 
 
 @media (min-width: 750px) and (max-width: 1279px) {
-  .blade h1{font-size: var((--h0-font-size)*0.6);
-  line-height: var((--h0-line-height)*0.6);} 
+  .blade h1{font-size: var((--h1-font-size)*0.6);
+  line-height: var((--h1-line-height)*0.6);} 
 }
 
 /* Columnas */
