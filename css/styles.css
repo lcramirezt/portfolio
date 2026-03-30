@@ -291,8 +291,8 @@ aspect-ratio:5/3;
   padding-left:var(--gutter);}
 
 .blade h1{max-width:70ch;
-  font-size:clamp(1.75rem, 2.5vw, 3.25rem);
-  line-height:clamp(2.5rem, 3.25vw, 4rem);
+  font-size:clamp(2rem, 2.5vw, 3.25rem);
+  line-height:clamp(2.75rem, 3.25vw, 4rem);
 }
 
 
@@ -486,8 +486,8 @@ aspect-ratio:auto;
 }
 
 .text-block p{
-  font-size:clamp(1.75rem, 2.5vw, 3.25rem);
-  line-height:clamp(2.5rem, 3.25vw, 4rem);
+  font-size:clamp(2rem, 2.5vw, 3.25rem);
+  line-height:clamp(2.75rem, 3.25vw, 4rem);
 }
 
 @media (min-width: 800px) {
