@@ -493,7 +493,7 @@ aspect-ratio:auto;
 
 @media (min-width: 800px) {
 .text-block{
-  max-width: 70ch;
+  max-width: 120ch;
 }
 }
 
