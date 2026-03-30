@@ -293,6 +293,7 @@ aspect-ratio:5/3;
 .blade h1{max-width:70ch;
   font-size:clamp(1.75rem, 2vw, 3.25rem);
   line-height:clamp(2.5rem, 3vw, 4rem);
+  color:red;
 }
 
 
