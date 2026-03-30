@@ -290,12 +290,11 @@ aspect-ratio:5/3;
   align-items: center;
   padding-left:var(--gutter);}
 
-.blade h1{max-width:70ch;} 
-
-@media (min-width: 750px) and (max-width: 1279px) {
-  .blade h1{font-size: var((--h1-font-size)*0.6);
-  line-height: var((--h1-line-height)*0.6);} 
+.blade h1{max-width:70ch;
+  font-size:clamp(1.75rem, 2vw, 3.25rem);
+  line-height:clamp(2.5rem, 3vw, 4rem);
 }
+
 
 /* Columnas */
 
